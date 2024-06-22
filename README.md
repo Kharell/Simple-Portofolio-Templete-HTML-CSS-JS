@@ -1,2 +1,5 @@
-# Simple-Portofolio-Templete-HTML-CSS-JS
-Templete Portofolio Sederhana Dengan HTML CSS JS
+# Karel Kalang.web
+
+
+web portofolio ke dua untuk brending diri
+dalam tahap pengembangan dan siap di upload ke github
